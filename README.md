@@ -5,7 +5,7 @@ This is Zohaib Munir
 :sparkles: I can design front-end responsive websites using HTML, CSS and Javascript  
 :chart_with_upwards_trend: I can also design Fully Responsive Mobile-Friendly Websites using Wordpress Content Management System  
 :man: You can find me at zohaibmunir32@gmail.com  
-:soccer: Apart from coding Football is something that gives me mood-swings. From :simple_smile: to :unamused real-quick  
+:soccer: Apart from coding Football is something that gives me mood-swings. From :simple-smile: to :unamused: real-quick  
 Connect with me on Social and we'll code together :smile:  
 https://web.facebook.com/zohaib.munir.94  
 https://www.instagram.com/zohaibbb__m/
