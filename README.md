@@ -21,9 +21,7 @@
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
-    </td>
+    
     
 </tr>
 <tr>
