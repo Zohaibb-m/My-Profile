@@ -7,7 +7,7 @@
 
 <h2><i>💻 Tech Stack</i></h2>
 
-<table width="120">
+<table width="80">
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
@@ -33,7 +33,7 @@
         <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://banner2.cleanpng.com/20180428/bcq/kisspng-jquery-logo-javascript-node-js-front-and-back-ends-jq-letter-logo-design-free-download-5ae4cd1b43d404.1652992415249441552778.jpg" width="60">
+        <img src="https://brandslogos.com/wp-content/uploads/images/jquery-logo.png" width="60">
     </td>   
 </tr>
 </table>
