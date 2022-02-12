@@ -44,9 +44,9 @@
 </table>
 
 
-🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+🤝🏻 &nbsp;Connect with Me</br></br>
 <a href="https://www.linkedin.com/in/zohaibb-munir/"><img src="https://img.shields.io/badge/-Zohaib%20Munir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zohaibmunir32@gmail.com"><img src="https://img.shields.io/badge/-zohaibmunir32@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/zohaibbb__m/"><img src="https://img.shields.io/badge/-@zohaibbb__m-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
