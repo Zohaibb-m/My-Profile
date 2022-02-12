@@ -7,7 +7,7 @@
 
 <h2><i>💻 Tech Stack</i></h2>
 
-<table width="80">
+<table width="100">
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
