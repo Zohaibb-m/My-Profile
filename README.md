@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://image.pngaaa.com/253/5505253-middle.png" width="60">
+        <img src="https://worldvectorlogo.com/download/bootstrap-4.svg" width="60">
     </td>
 </tr>
 </table>
