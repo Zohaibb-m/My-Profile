@@ -3,7 +3,6 @@
 :file_folder: I am Currently learning Full Stack Development  
 :sparkles: I can design front-end responsive websites  
 :chart_with_upwards_trend: I can also design Fully Responsive Mobile-Friendly Websites using Wordpress Content Management System   
-:man: You can find me at zohaibmunir32@gmail.com  
 
 
 <h2><i>💻 Tech Stack</i></h2>
@@ -32,7 +31,13 @@
     </td>
 </tr>
 </table>
+## 🤝🏻 &nbsp;Connect with Me
 
-Connect with me on Social and we'll code together :smile:  
-https://web.facebook.com/zohaib.munir.94  
-https://www.instagram.com/zohaibbb__m/
+<p align="center">
+<a href="https://www.linkedin.com/in/zohaibb-munir/"><img src="https://img.shields.io/badge/-zohaibb-munir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zohaibmunir32@gmail.com"><img src="https://img.shields.io/badge/-zohaibmunir32@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/zohaibbb__m/"><img src="https://img.shields.io/badge/-@zohaibbb__m-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://web.facebook.com/zohaib.munir.94"><img src="https://img.shields.io/badge/-@ZohaibMunir-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+
+
