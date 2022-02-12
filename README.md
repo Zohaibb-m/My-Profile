@@ -18,22 +18,23 @@
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" width="60">
     </td>
+    <td align='center'>
+        <img src="https://banner2.cleanpng.com/20180428/bcq/kisspng-jquery-logo-javascript-node-js-front-and-back-ends-jq-letter-logo-design-free-download-5ae4cd1b43d404.1652992415249441552778.jpg" width="60">
+    </td>   
 </tr>
 </table>
 ## 🤝🏻 &nbsp;Connect with Me
