@@ -1,8 +1,8 @@
 # Hi there, I'm Zohaib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 :books: I am studying Bachelors in Computer Science  
-:file_folder: I am Currently learning Full Stack Development
-:sparkles: I can design front-end responsive websites
-:chart_with_upwards_trend: I can also design Fully Responsive Mobile-Friendly Websites using Wordpress Content Management System  
+:file_folder: I am Currently learning Full Stack Development  
+:sparkles: I can design front-end responsive websites  
+:chart_with_upwards_trend: I can also design Fully Responsive Mobile-Friendly Websites using Wordpress Content Management System   
 :man: You can find me at zohaibmunir32@gmail.com  
 
 
