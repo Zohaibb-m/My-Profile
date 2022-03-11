@@ -39,8 +39,17 @@
 <tr height="150">
     <td align='center'>
     <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
-</td>
-    </tr>
+    </td>
+    <td align='center'>
+    <img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo.png" height="40" width="60">
+    </td>
+    <td align='center'>
+    <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" height="40" width="60">
+    </td>
+    <td align='center'>
+    <img src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png" height="40" width="60">
+    </td>
+</tr>
 </table>
 
 
