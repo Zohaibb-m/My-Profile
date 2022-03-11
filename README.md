@@ -41,7 +41,7 @@
     <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
     </td>
     <td align='center'>
-    <img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo.png" height="40" width="60">
+    <img src="https://www.cleanpng.com/png-node-js-javascript-server-side-scripting-ruby-1210208/download-png.html" height="40" width="60">
     </td>
     <td align='center'>
     <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" height="40" width="60">
