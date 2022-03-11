@@ -41,13 +41,13 @@
     <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
     </td>
     <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100">
     </td>
     <td align='center'>
-    <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" height="40" width="120">
+    <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" height="40" width="150">
     </td>
     <td align='center'>
-    <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg" height="40" width="120">
+    <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg" height="40" width="150">
     </td>
 </tr>
 </table>
