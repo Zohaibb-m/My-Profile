@@ -41,13 +41,13 @@
     <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
     </td>
     <td align='center'>
-    <img src="https://www.cleanpng.com/png-node-js-javascript-server-side-scripting-ruby-1210208/download-png.html" height="40" width="60">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="40" width="60">
     </td>
     <td align='center'>
-    <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" height="40" width="60">
+    <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" height="40" width="60">
     </td>
     <td align='center'>
-    <img src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png" height="40" width="60">
+    <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg" height="40" width="60">
     </td>
 </tr>
 </table>
