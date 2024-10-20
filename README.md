@@ -1,57 +1,5 @@
 # Hi there, I'm Zohaib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-:books: I'm currently doing my Bachelors in Computer Science from Punjab University  
-:file_folder: I'm Currently learning Full Stack Development  
-:sparkles: I can design front-end responsive websites  
-:chart_with_upwards_trend: I can also design Fully Responsive Mobile-Friendly Websites using Wordpress Content Management System   
-
-
-<h2><i>💻 Tech Stack</i></h2>
-
-<table width="100">
-<tr height="150">
-    <td align='center' width="250">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="250">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="250">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-    <td align='center' width="250">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
-    </td>
-</tr>
-<tr height="150">
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://brandslogos.com/wp-content/uploads/images/jquery-logo.png" width="60">
-    </td>   
-</tr>
-<tr height="150">
-    <td align='center'>
-    <img src="https://www.sfml-dev.org/download/goodies/sfml-logo-small.png" height="40" width="60">
-    </td>
-    <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100">
-    </td>
-    <td align='center'>
-    <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" height="40" width="150">
-    </td>
-    <td align='center'>
-    <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg" height="40" width="150">
-    </td>
-</tr>
-</table>
-
+I am working as a Machine Learning Engineer. 
 
 
 <p align="center">
